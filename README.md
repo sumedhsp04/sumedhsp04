@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sumedh Patil
 - 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Google Data Analytics Professional Certificate
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You to reach me on https://www.linkedin.com/in/sumedh-patil-sp04/
 
 <!---
 sumedhsp04/sumedhsp04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
